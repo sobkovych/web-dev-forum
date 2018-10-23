@@ -1,7 +1,7 @@
 'use strict';
 
 const AppConstants = {
-  api: 'http://localhost:3000/api',
+  api: 'http://web-dev.forum.ua:3000/api',
   appName: 'Web-Development Forum',
   jwtKey: 'jwtToken',
   roleAdmin: 'Admin',
